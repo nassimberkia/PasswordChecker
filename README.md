@@ -24,4 +24,4 @@
 ## So führen Sie das Programm aus
 1. **Repository klonen:**
    ```bash
-   git clone https://github.com/dein-benutzername/PasswortPruefung.git
+   git clone https://github.com/dein-benutzername/PasswordChecker.git
