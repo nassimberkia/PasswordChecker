@@ -1,11 +1,12 @@
 # PasswordChecker
-Dies ist eine einfache C#-Konsolenanwendung, die ein Passwort Abfrage durchführt. Der Benutzer hat bis zu drei Versuche, um das korrekte Passwort einzugeben. Nach drei Fehlversuchen wird der Zugriff verweigert.
+- Dieses C# Konsolen Progamm überprüft, ob das eingegebende Passwort richtig oder falsch ist. Der Benutzer hat bis zu drei Versuche, um das korrekte Passwort einzugeben. Nach drei Fehlversuchen wird der Zugriff verweigert.
+- Das Korrekte Passwort lautet "2002".
 ---
 
 ## Funktionen
 - Der Benutzer kann ein Passwort eingeben, das überprüft wird.
-- Es werden bis zu drei Versuche für das korrekte Passwort gewährt.
-- Erfolgs- oder Fehlermeldungen werden ausgegeben.
+- Es werden bis zu drei Versuche für das korrekte Passwort zur Verfügung gestellt.
+- Es wird eine Fehler oder Sucessful Meldung ausgegeben.
 - Demonstriert grundlegende Programmierkonzepte:
   - Variablen
   - Schleifen (`while`)
